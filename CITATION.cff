@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you use this laboratory, please cite it as below.
+type: software
+title: "Market Microstructure and Algorithmic Trading Laboratory"
+abstract: >-
+  Educational limit-order-book and execution models, including a layered
+  backtest that peels mid-price marks from executable prices, impact, and
+  delay. Simulated prints only.
+authors:
+  - family-names: Thomas
+    given-names: Pavanam
+    email: thomaspavanam@gmail.com
+license: MIT
+keywords:
+  - market microstructure
+  - limit order book
+  - execution
+  - Kyle lambda
+  - Glosten-Milgrom
+  - implementation shortfall
+  - VWAP
+repository-code: "https://github.com/pavanamthomas/market-microstructure-algorithmic-trading-lab"
+year: 2026
+copyright: "Copyright 2026 Dr. Pavanam Thomas"
