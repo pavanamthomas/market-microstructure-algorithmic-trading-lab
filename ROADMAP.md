@@ -1,6 +1,6 @@
 # Roadmap
 
-Open technical work. Not a board of decorative chores.
+Open technical work.
 
 ## Queue-priority sensitivity under a second arriver
 
